@@ -3,7 +3,7 @@
 [![Inquirer.js](https://img.shields.io/badge/Inquirer.js-8.2.4-blue.svg)](https://www.npmjs.com/package/inquirer)
 [![fs](https://img.shields.io/badge/fs-Node.js-yellowgreen.svg)](https://nodejs.org/api/fs.html)	
 [![Jest](https://img.shields.io/badge/Jest-29.5.0-red.svg)](https://jestjs.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-<USERNAME>-black.svg?logo=github)](https://github.com/Swathivinod19)
+[![GitHub](https://img.shields.io/badge/GitHub-SwathiVinod19-black.svg?logo=github)](https://github.com/Swathivinod19)
 
 # svg-logo-maker
 A Node.js command-line application that takes in user input to generate a logo and save it as an SVG file.
