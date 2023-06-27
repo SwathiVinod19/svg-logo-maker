@@ -18,9 +18,15 @@ To make an application that uses Inquirer for collecting input from the user and
 
 [Usage](#Usage)
 
+[Screenshots](#Screenshots)
+
+[Walkthrough Video](#Walkthrough-video)
+
 [Contributions](#Contributions)
 
 [Tests](#Tests)
+
+[Acknowledgements](#Acknowledgements)
 
 [Questions?](#Questions)
 
@@ -40,6 +46,11 @@ Go to package.json and type in “jest” next to the “test :”
 Change directories or right click on the folder to open “integrated terminal”. 
 Type "node index.js" in the terminal. You will be asked a series of questions before your logo is generated. 
 
+## Screenshots
+
+
+## Walkthrough video
+
 
 ## Contributions :
  Contact me for any contribution ideas or requests.
@@ -48,9 +59,13 @@ Type "node index.js" in the terminal. You will be asked a series of questions be
 Each shape class (Circle, Square, and Triangle) is tested for a render() method that returns a string for the corresponding SVG file matching color and text requests. 
 Type "npm test" or “npm run test” or “npx jest shapes.test.js” in the command line and Jest will run all three tests.
 
+## Acknowledgements
+I would like to thank my tutor and peers for their support and guidance and my family for being patient with me.
+
 ## Questions
 Please contact me for any questions
 [Email me](swathi.vinod@gmail.com)
+
 [Github](https://github.com/SwathiVinod19)
 
 
