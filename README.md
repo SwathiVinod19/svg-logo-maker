@@ -13,10 +13,15 @@ To make an application that uses Inquirer for collecting input from the user and
 
 ## Table of content 
 [License](#License)
+
 [Installation](#Installation)
-[Usage](#Usage)
-[Contributions](#Contributions)
-[Tests](#Tests)
+
+[Usage](#Usage
+
+[Contributions](#Contributions
+
+[Tests](#Tests
+
 [Questions?](#Questions)
 
 ## License 
