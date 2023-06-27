@@ -16,11 +16,11 @@ To make an application that uses Inquirer for collecting input from the user and
 
 [Installation](#Installation)
 
-[Usage](#Usage
+[Usage](#Usage)
 
-[Contributions](#Contributions
+[Contributions](#Contributions)
 
-[Tests](#Tests
+[Tests](#Tests)
 
 [Questions?](#Questions)
 
