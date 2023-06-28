@@ -18,6 +18,10 @@ To make an application that uses Inquirer for collecting input from the user and
 
 [Usage](#Usage)
 
+[User Story](#User-story)
+
+[Features](#Features)
+
 [Screenshots](#Screenshots)
 
 [Walkthrough Video](#Walkthrough-video)
@@ -45,6 +49,31 @@ Go to package.json and type in “jest” next to the “test :”
 ## Usage:
 Change directories or right click on the folder to open “integrated terminal”. 
 Type "node index.js" in the terminal. You will be asked a series of questions before your logo is generated. 
+
+## User Story
+>>
+>>AS a freelance web developer
+>>I WANT to generate a simple logo for my projects
+>>SO THAT I don't have to pay a graphic designer
+>>
+
+## Features
+>>
+>>GIVEN a command-line application that accepts user input
+>>WHEN I am prompted for text
+>>THEN I can enter up to three characters
+>>WHEN I am prompted for the text color
+>>THEN I can enter a color keyword (OR a hexadecimal number)
+>>WHEN I am prompted for a shape
+>>THEN I am presented with a list of shapes to choose from: circle, triangle, and square
+>>WHEN I am prompted for the shape's color
+>>THEN I can enter a color keyword (OR a hexadecimal number)
+>>WHEN I have entered input for all the prompts
+>>THEN an SVG file is created named `logo.svg`
+>>AND the output text "Generated logo.svg" is printed in the command line
+>>WHEN I open the `logo.svg` file in a browser
+>>THEN I am shown a 300x200 pixel image that matches the criteria I entered
+>>
 
 ## Screenshots
 ![image](https://github.com/SwathiVinod19/svg-logo-maker/assets/129353324/4d12ee66-307e-4636-8063-8af9033326bf)
