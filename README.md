@@ -47,6 +47,25 @@ Change directories or right click on the folder to open â€œintegrated terminalâ€
 Type "node index.js" in the terminal. You will be asked a series of questions before your logo is generated. 
 
 ## Screenshots
+![image](https://github.com/SwathiVinod19/svg-logo-maker/assets/129353324/4d12ee66-307e-4636-8063-8af9033326bf)
+
+screenshot of the prompts
+
+![svg-logo-maker-options-screenshot](https://github.com/SwathiVinod19/svg-logo-maker/assets/129353324/ae12335b-313e-4e62-b0f6-8b8a5b8ffcd9)
+
+screenshot of the options
+
+![svg-logo-maker-hexadecimal](https://github.com/SwathiVinod19/svg-logo-maker/assets/129353324/2371b7cf-e9eb-42c6-9fca-84ea0a9e5690)
+
+hexadecimal options being listed
+
+![svg-logo-maker-color-keyword](https://github.com/SwathiVinod19/svg-logo-maker/assets/129353324/5da2b3da-c96f-4839-98b0-c0e6e3f6814e)
+
+color keywords being listed
+
+![svg-logo-maker-output](https://github.com/SwathiVinod19/svg-logo-maker/assets/129353324/41cf119f-51ab-4d77-9e3b-b0bd84707865)
+
+output in vs code
 
 
 ## Walkthrough video
