@@ -50,7 +50,7 @@ Type "node index.js" in the terminal. You will be asked a series of questions be
 
 
 ## Walkthrough video
-[Video link] (https://drive.google.com/file/d/191nIyWMRgcs6TjybrB-m_Qb_D0VBnedw/view)
+[Video link](https://drive.google.com/file/d/191nIyWMRgcs6TjybrB-m_Qb_D0VBnedw/view)
 
 ## Contributions :
  Contact me for any contribution ideas or requests.
