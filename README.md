@@ -32,6 +32,8 @@ To make an application that uses Inquirer for collecting input from the user and
 
 [Acknowledgements](#Acknowledgements)
 
+[References](#References)
+
 [Questions?](#Questions)
 
 ## License 
@@ -120,6 +122,15 @@ Type "npm test" or “npm run test” or “npx jest shapes.test.js” in the co
 
 ## Acknowledgements
 I would like to thank my tutor and peers for their support and guidance and my family for being patient with me.
+
+## References
+https://jestjs.io/docs/using-matchers
+
+https://www.w3schools.com/cssref/css_colors.php
+
+https://www.npmjs.com/package/inquirer
+
+https://javascript.plainenglish.io/how-to-inquirer-js-c10a4e05ef1f
 
 ## Questions
 Please contact me for any questions
